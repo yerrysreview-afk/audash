@@ -1,0 +1,9 @@
+{
+  "appId": "com.audashi.app",
+  "appName": "Audashi",
+  "webDir": "www",
+  "backgroundColor": "#07040e",
+  "android": {
+    "backgroundColor": "#07040e"
+  }
+}
